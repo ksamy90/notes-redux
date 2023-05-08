@@ -11,24 +11,19 @@
       "important": true
     },
     {
-      "id": 3,
       "content": "redux architecture",
-      "important": true
+      "important": false,
+      "id": 3
     },
     {
       "content": "design systems are awesome",
-      "important": true,
+      "important": false,
       "id": 4
     },
     {
-      "id": 5,
       "content": "redux design",
-      "important": true
-    },
-    {
-      "id": 6,
-      "content": "design",
-      "important": true
+      "important": true,
+      "id": 5
     }
   ]
 }
