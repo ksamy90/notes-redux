@@ -24,6 +24,11 @@
       "content": "redux design",
       "important": true,
       "id": 5
+    },
+    {
+      "content": "redux design",
+      "important": false,
+      "id": 6
     }
   ]
 }
